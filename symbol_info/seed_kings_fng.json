@@ -1,0 +1,5 @@
+{
+  "symbol": ["CNN_FGI"],
+  "description": ["CNN Fear and Greed Index"],
+  "pricescale": 100
+}
